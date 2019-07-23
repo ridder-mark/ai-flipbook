@@ -14,7 +14,7 @@ var version = 'v1::';
 var offlineFundamentals = [
   '',
   'index.html',
-  'style.css',
+  'css/style.css',
   'app.js'
 ];
 
